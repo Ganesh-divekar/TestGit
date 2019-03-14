@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 // ADDED A comment
+//Added a second comment
 class App extends Component {
   render() {
     return (
